@@ -1,0 +1,205 @@
+Xsession: X session started for b1812846 at Thứ sáu, 05 Tháng 11 năm 2021 16:35:22 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/b1812846/.Xauthority
+localuser:b1812846 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/b1812846
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=b1812846
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/b1812846/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/b1812846
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting USER=b1812846
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[: 1: Syntax error: Unterminated quoted string
+isPrimaryInstance
+(0x7fff4901b9c0) Debug: New PolkitAgentListener  0x55961cfc9e00
+(0x7fff4901b9c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff4901b9d0) for  0x55961cfc9e00
+(0x7fffda4ad3b0) Warning: Icon theme "elementary" not found.
+no cached wallpaper. generate a new one!
+size of original image QSize(2560, 1600)
+(0x7ffcf4df58f0) Warning: Icon theme "elementary" not found.
+(0x7fffda4ad3b0) Debug: ()
+(0x7ffcf4df58f0) Debug: systemd: "CanHibernate" = "na"
+(0x7ffcf4df58f0) Warning: ** Dbus error **************************
+(0x7ffcf4df58f0) Warning: Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+(0x7ffcf4df58f0) Warning: Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+(0x7ffcf4df58f0) Warning: ****************************************
+(0x7ffcf4df58f0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+(0x7ffcf4df58f0) Debug: systemd: "CanSuspend" = "yes"
+(0x7ffdb13ecb70) Debug: systemd: "CanReboot" = "yes"
+(0x7ffdb13ecb70) Debug: systemd: "CanPowerOff" = "yes"
+(0x7fffda4ad3b0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55b4b3d76ce0, name="LXQtPanel panel1Window") QScreen(0x55b4b3ad7ae0, name="Virtual1")
+(0x7fffda4ad3b0) Debug: Systray started
+[Notice] Started
+wallpaper cached saved to  "/home/b1812846/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+Icon theme "elementary" not found.
+Icon theme "elementary" not found.
+(0x7fffa8b40270) Warning: Icon theme "elementary" not found.
+(0x7fffda4ad3b0) Debug: Unknown property margin-button
+(0x7fffda4ad3b0) Debug: Unknown property margin-button
+(0x7fffda4ad3b0) Debug: Unknown property margin-button
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 64 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: Inhibit got: 28
+(0x7fffd2f62d50) Warning: Icon theme "elementary" not found.
+(0x7fffa8b40270) Debug: Starting idlenesswatcher
+(0x7fffa8b40270) Debug: action invoked: "0"
+(0x7ffe972175a0) Warning: Icon theme "elementary" not found.
+(0x7ffea9517710) Warning: Icon theme "elementary" not found.
+(0x7ffea9517710) Debug: Connecting to KScreen...
+size of cached file QSize(800, 600) , requiredSize: QSize(1024, 768)
+no cached wallpaper. generate a new one!
+size of original image QSize(2560, 1600)
+wallpaper cached saved to  "/home/b1812846/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+(0x7ffea9517710) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+(0x7ffea9517710) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+(0x7ffea9517710) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+size of cached file QSize(1024, 768) , requiredSize: QSize(800, 600)
+no cached wallpaper. generate a new one!
+size of original image QSize(2560, 1600)
+wallpaper cached saved to  "/home/b1812846/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 600) , requiredSize: QSize(1280, 768)
+no cached wallpaper. generate a new one!
+size of original image QSize(2560, 1600)
+wallpaper cached saved to  "/home/b1812846/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+(0x7ffea9517710) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+(0x7ffea9517710) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+(0x7fffda4ad3b0) Debug: execAction "/usr/share/applications/firefox.desktop"
+
+(firefox:1146): GLib-GIO-CRITICAL **: 16:36:29.595: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1146): GLib-GIO-CRITICAL **: 16:36:29.595: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1146): GLib-GIO-CRITICAL **: 16:36:29.595: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 63 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 61 actionTime: QTime(Invalid)
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Icon theme "elementary" not found.
+QDir::exists: Empty or null file name
+Canot open file "/home/b1812846/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/Lubuntu"
+Trying to load translation file from dir "/usr/local/share"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/var/lib/snapd/desktop"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Shell program: "/bin/bash"
+("/bin/bash")
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 60 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 58 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 57 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 56 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 54 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 53 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 52 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 50 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/3  is currently invalid...
+nm-tray: void NmModelPrivate::onConnectionAdded(const QString&) /org/freedesktop/NetworkManager/Settings/2  is currently invalid...
+nm-tray: void NmModelPrivate::onActiveConnectionAdded(const QString&) /org/freedesktop/NetworkManager/ActiveConnection/2  is currently invalid...
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 49 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/4  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/5  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/4  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/6  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/6  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/5  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 48 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/7  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/8  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/7  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/9  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/9  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/8  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/10  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/11  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/10  is currently invalid...
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 46 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 45 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 44 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/12  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/12  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/11  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/13  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/14  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/13  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/15  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/15  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/14  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/16  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/17  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/16  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/18  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/18  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/17  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 42 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/19  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/20  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/19  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/21  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/21  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/20  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 41 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/22  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/23  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/22  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/24  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/24  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/23  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 40 actionTime: QTime(Invalid)
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/25  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/26  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/25  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceAdded(const QString&) /org/freedesktop/NetworkManager/Devices/27  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/27  is currently invalid...
+nm-tray: void NmModelPrivate::onDeviceRemoved(const QString&) /org/freedesktop/NetworkManager/Devices/26  is currently invalid...
+(0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+(0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 39 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 37 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 36 actionTime: QTime(Invalid)
+(0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 34 actionTime: QTime(Invalid)

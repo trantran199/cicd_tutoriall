@@ -1,0 +1,72 @@
+2021-11-05 16:35:28.958 (0x7fff4901b9c0) Debug: New PolkitAgentListener  0x55961cfc9e00
+2021-11-05 16:35:28.958 (0x7fff4901b9c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff4901b9d0) for  0x55961cfc9e00
+2021-11-05 16:35:29.303 (0x7fffda4ad3b0) Warning: Icon theme "elementary" not found.
+2021-11-05 16:35:30.583 (0x7ffcf4df58f0) Warning: Icon theme "elementary" not found.
+2021-11-05 16:35:30.650 (0x7fffda4ad3b0) Debug: ()
+2021-11-05 16:35:30.694 (0x7ffcf4df58f0) Debug: systemd: "CanHibernate" = "na"
+2021-11-05 16:35:30.696 (0x7ffcf4df58f0) Warning: ** Dbus error **************************
+2021-11-05 16:35:30.697 (0x7ffcf4df58f0) Warning: Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+2021-11-05 16:35:30.697 (0x7ffcf4df58f0) Warning: Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+2021-11-05 16:35:30.697 (0x7ffcf4df58f0) Warning: ****************************************
+2021-11-05 16:35:30.698 (0x7ffcf4df58f0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2021-11-05 16:35:30.705 (0x7ffcf4df58f0) Debug: systemd: "CanSuspend" = "yes"
+2021-11-05 16:35:30.755 (0x7ffdb13ecb70) Debug: systemd: "CanReboot" = "yes"
+2021-11-05 16:35:30.782 (0x7ffdb13ecb70) Debug: systemd: "CanPowerOff" = "yes"
+2021-11-05 16:35:30.997 (0x7fffda4ad3b0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55b4b3d76ce0, name="LXQtPanel panel1Window") QScreen(0x55b4b3ad7ae0, name="Virtual1")
+2021-11-05 16:35:31.054 (0x7fffda4ad3b0) Debug: Systray started
+2021-11-05 16:35:32.679 (0x7fffa8b40270) Warning: Icon theme "elementary" not found.
+2021-11-05 16:35:32.822 (0x7fffda4ad3b0) Debug: Unknown property margin-button
+2021-11-05 16:35:32.822 (0x7fffda4ad3b0) Debug: Unknown property margin-button
+2021-11-05 16:35:32.823 (0x7fffda4ad3b0) Debug: Unknown property margin-button
+2021-11-05 16:35:33.138 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 64 actionTime: QTime(Invalid)
+2021-11-05 16:35:33.155 (0x7fffa8b40270) Debug: Inhibit got: 28
+2021-11-05 16:35:33.270 (0x7fffd2f62d50) Warning: Icon theme "elementary" not found.
+2021-11-05 16:35:33.459 (0x7fffa8b40270) Debug: Starting idlenesswatcher
+2021-11-05 16:35:42.612 (0x7fffa8b40270) Debug: action invoked: "0"
+2021-11-05 16:35:42.721 (0x7ffe972175a0) Warning: Icon theme "elementary" not found.
+2021-11-05 16:36:01.062 (0x7ffea9517710) Warning: Icon theme "elementary" not found.
+2021-11-05 16:36:01.244 (0x7ffea9517710) Debug: Connecting to KScreen...
+2021-11-05 16:36:07.778 (0x7ffea9517710) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2021-11-05 16:36:08.749 (0x7ffea9517710) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2021-11-05 16:36:09.750 (0x7ffea9517710) Warning: QString::arg: Argument missing: "8 second(s) remaining" , 8
+2021-11-05 16:36:15.750 (0x7ffea9517710) Warning: QString::arg: Argument missing: "10 second(s) remaining" , 10
+2021-11-05 16:36:16.751 (0x7ffea9517710) Warning: QString::arg: Argument missing: "9 second(s) remaining" , 9
+2021-11-05 16:36:26.845 (0x7fffda4ad3b0) Debug: execAction "/usr/share/applications/firefox.desktop"
+2021-11-05 16:37:30.377 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 63 actionTime: QTime(Invalid)
+2021-11-05 16:39:30.381 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 61 actionTime: QTime(Invalid)
+2021-11-05 16:41:30.373 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 60 actionTime: QTime(Invalid)
+2021-11-05 16:43:30.402 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 58 actionTime: QTime(Invalid)
+2021-11-05 16:45:30.414 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 57 actionTime: QTime(Invalid)
+2021-11-05 16:47:30.395 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 56 actionTime: QTime(Invalid)
+2021-11-05 16:49:30.338 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 54 actionTime: QTime(Invalid)
+2021-11-05 16:51:30.387 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 53 actionTime: QTime(Invalid)
+2021-11-05 16:53:30.440 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 52 actionTime: QTime(Invalid)
+2021-11-05 16:55:30.449 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 50 actionTime: QTime(Invalid)
+2021-11-05 16:57:30.290 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 49 actionTime: QTime(Invalid)
+2021-11-05 16:58:17.000 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 16:58:17.000 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 16:59:30.376 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 48 actionTime: QTime(Invalid)
+2021-11-05 17:01:08.521 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:01:08.521 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:01:30.375 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 46 actionTime: QTime(Invalid)
+2021-11-05 17:03:30.382 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 45 actionTime: QTime(Invalid)
+2021-11-05 17:05:30.401 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 44 actionTime: QTime(Invalid)
+2021-11-05 17:06:05.207 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:06:05.204 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:06:42.163 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:06:42.163 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:07:14.006 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:07:14.006 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:07:30.384 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 42 actionTime: QTime(Invalid)
+2021-11-05 17:08:55.954 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:08:55.954 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:09:30.354 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 41 actionTime: QTime(Invalid)
+2021-11-05 17:11:02.758 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:11:02.759 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:11:30.860 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 40 actionTime: QTime(Invalid)
+2021-11-05 17:11:34.293 (0x7fffa8b40270) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:11:34.293 (0x7fffda4ad3b0) Warning: UdevQt: unhandled device action "move"
+2021-11-05 17:13:30.843 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 39 actionTime: QTime(Invalid)
+2021-11-05 17:15:30.862 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 37 actionTime: QTime(Invalid)
+2021-11-05 17:17:30.796 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 36 actionTime: QTime(Invalid)
+2021-11-05 17:19:30.864 (0x7fffa8b40270) Debug: BatteryChanged discharging: true chargeLevel: 34 actionTime: QTime(Invalid)

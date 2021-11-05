@@ -1,0 +1,8 @@
+[2021-11-05-16-57-18-257]
+Actions=@Invalid()
+Application=NetworkManager(nm-tray)
+Body=Now connected to bridge 'docker0'.
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=network-wired
+Summary=Connection established
+TimeOut=10000
